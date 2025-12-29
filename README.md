@@ -15,12 +15,15 @@ Could this **BE** any more useful? A 90s-aesthetic web app that randomly picks a
 
 ## 🚀 How to Use
 
-1. Open `index.html` in your browser
-2. Click the big orange button
-3. Watch the episode it tells you to watch
-4. Repeat when you need another fix
+Visit the live site: **https://evanstoddard.github.io/friends_picker/**
+
+1. Click the big orange button
+2. Watch the episode it tells you to watch
+3. Repeat when you need another fix
 
 That's it. We're not Ross explaining paleontology here - it's simple!
+
+**Running Locally:** Just open `index.html` in your browser.
 
 ## 📁 What's Inside
 
